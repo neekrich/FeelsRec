@@ -1,7 +1,9 @@
 import { Box, Typography } from '@material-ui/core'
 import logo_text from './assets/logo_text.png'
 import logo_icon from './assets/logo_icon.png'
+import feels_logo from './assets/feels_logo.png'
 import './App.css'
+
 
 function Title(props) {
 
@@ -11,7 +13,7 @@ function Title(props) {
       <Box>
         
         <Typography variant="h1">
-          Feels
+          <img src={feels_logo}></img>
         </Typography>
         
         <Box m={-2}>
