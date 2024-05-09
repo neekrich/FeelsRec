@@ -9,6 +9,7 @@ function Title(props) {
     <Box display="flex" flexWrap="wrap" justifyContent="center" alignItems="center" flexDirection="column">
 
       <Box>
+        
         <Typography variant="h1">
           Feels
         </Typography>
