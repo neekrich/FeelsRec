@@ -71,7 +71,7 @@ function SearchBar() {
           )}
           autoHighlight
           autoSelect
-          noOptionsText="Search for Artists or Tracks... get creative!"
+          noOptionsText="Search for Artists or Tracks"
           onInputChange={updateOptions}
           filterOptions={(options, state) => options}
           getOptionSelected={(option, value) => option }

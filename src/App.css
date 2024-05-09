@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background: linear-gradient(240deg, rgba(91,42,184,1) 0%, rgba(42,89,184,1) 30%, rgba(42,184,89,1) 100%);
+  background: linear-gradient(240deg, rgb(63, 6, 167) 0%, rgb(189, 37, 83) 30%, rgb(224, 207, 175) 100%);
   background-size: 200% 150%;
   animation: bg-animation 2.75s infinite alternate;
 }
